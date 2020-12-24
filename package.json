@@ -1,0 +1,26 @@
+{
+  "name": "openbg",
+  "version": "1.0.0",
+  "description": "A full stack web proyect with typescript and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dixrow/openBG.git"
+  },
+  "author": "dixrow & singiamtel",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dixrow/openBG/issues"
+  },
+  "homepage": "https://github.com/dixrow/openBG#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "sockjs": "^0.3.21"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
